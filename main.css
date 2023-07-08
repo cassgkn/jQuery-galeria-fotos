@@ -123,6 +123,15 @@ ul li:hover .overlay-imagem-link {
     opacity: 1;
 }
 
+footer {
+    color: #fff;
+    text-align: center;
+    background-color: #FFBBEC;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
 @media screen and (max-width: 430px) {
     header {
         font-size: 12px;
