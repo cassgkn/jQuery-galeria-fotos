@@ -135,7 +135,7 @@ footer {
 @media screen and (max-width: 430px) {
     header {
         flex-direction: column;
-        font-size: 21px;
+        font-size: 20px;
         padding: 25px;
         justify-content: center;
     }
@@ -179,12 +179,7 @@ footer {
     }
 
     ul li img {
-        justify-content:space-evenly;
-        width: 100%;
-        height: 100%;
-        border-radius: 5px;
-        padding: 1px;
-        border: 1px solid #FF3CAC
+        flex-direction: column;
     }
 }    
 
